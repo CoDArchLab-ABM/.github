@@ -30,7 +30,7 @@ Each student or group develops their own simulation project, following the share
 | -------------------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
 | **Template**         | [`project2025_template`](https://github.com/CoDArchLab-ABM/project2025_template) | Starting point for student projects         |
 | **Student projects** | `project2025_<model-name>`                                                       | Individual or group simulation projects     |
-| **Course materials** | `course_guide`, `course_slides`                                               | Lecture notes and slides, datasets, and example models |
+| **Course materials** | `course_guide`, `course_slides`, ...                                             | Lecture notes and slides, datasets, and example models |
 
 ---
 
