@@ -1,9 +1,3 @@
-Excellent — here’s a polished **README.md for your GitHub organisation homepage (`CoDArchLab-ABM`)**, written to serve both as a professional landing page and a friendly entry point for your MA students.
-
-It introduces the course purpose, repository structure, and participation process, while maintaining a clean academic tone suitable for public visibility (e.g., for prospective collaborators or reviewers).
-
----
-
 # 🏺 CoDArchLab-ABM: Agent-based Modelling for Archaeologists
 
 Welcome to the **CoDArchLab-ABM GitHub organisation**, home to the repositories and resources developed in the MA course
