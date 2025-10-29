@@ -32,6 +32,25 @@ Each student or group develops their own simulation project, following the share
 | **Student projects** | `project2025_<model-name>`                                                       | Individual or group simulation projects     |
 | **Course materials** | `course_guide`, `course_slides`, ...                                             | Lecture notes and slides, datasets, and example models |
 
+```mermaid
+flowchart TD
+    A[📘 Course guide<br/>course_guide repo] --> B[🧩 Template repository<br/>project2025_template]
+    B --> C1[💻 Student project<br/>project2025_modelA]
+    B --> C2[💻 Student project<br/>project2025_modelB]
+    B --> C3[💻 Student project<br/>project2025_modelC]
+    C1 --> D1[🧾 Zenodo DOI<br/>Published v0.1]
+    C2 --> D2[🧾 Zenodo DOI<br/>Published v0.1]
+    C3 --> D3[🧾 Zenodo DOI<br/>Published v0.1]
+    style A fill:#fef6e4,stroke:#c4a000,stroke-width:1px
+    style B fill:#e6f3ff,stroke:#2176ff,stroke-width:1px
+    style C1 fill:#f0f9f0,stroke:#009900,stroke-width:1px
+    style C2 fill:#f0f9f0,stroke:#009900,stroke-width:1px
+    style C3 fill:#f0f9f0,stroke:#009900,stroke-width:1px
+    style D1 fill:#fff0f5,stroke:#cc3366,stroke-width:1px
+    style D2 fill:#fff0f5,stroke:#cc3366,stroke-width:1px
+    style D3 fill:#fff0f5,stroke:#cc3366,stroke-width:1px
+```
+
 ---
 
 ## 🚀 Getting started (for students)
